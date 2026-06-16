@@ -95,15 +95,16 @@ A synthetic regression dataset generated using Scikit-Learn for demonstrating th
 
 ---
 
-## 🏁 Conclusion
-
-Gradient Descent is the backbone of many machine learning and deep learning algorithms. By visualizing the updates of slope and intercept, this project provides a clear understanding of how optimization works and how models learn from data.
-
----
-
 ## 💻 Technologies Used
 
 * Python
 * NumPy
 * Matplotlib
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Gradient Descent is the backbone of many machine learning and deep learning algorithms. By visualizing the updates of slope and intercept, this project provides a clear understanding of how optimization works and how models learn from data.
+
